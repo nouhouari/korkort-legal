@@ -8,16 +8,6 @@ title: "Användarvillkor"
 ---
 
 
-> **UTKAST — INTE JURIDISK RÅDGIVNING.**
-> Detta dokument är ett utkast som återspeglar hur appen faktiskt fungerar.
-> Det måste granskas av en jurist med behörighet i svensk rätt och
-> EU-konsumentskydd innan det publiceras. Ingenting här utgör juridisk
-> rådgivning eller garanterar att dokumentet uppfyller lagens krav.
->
-> **Notera:** Denna svenska text är maskinassisterad. En kvalificerad
-> jurist med behörighet i Sverige MÅSTE granska och godkänna den innan
-> publicering.
-
 # Villkor — Körkort Theory
 
 **Ikraftträdandedatum:** [IKRAFTTRÄDANDEDATUM]
@@ -291,5 +281,4 @@ E-post: [KONTAKT-E-POST]
 ---
 
 *Körkort Theory är ett fristående studieverktyg och är inte anslutet till eller
-godkänt av Trafikverket. Detta dokument är ett utkast och utgör inte juridisk
-rådgivning; låt en kvalificerad jurist granska det innan publicering.*
+godkänt av Trafikverket.*

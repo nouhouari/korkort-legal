@@ -268,5 +268,4 @@ Email: [CONTACT EMAIL]
 ---
 
 *Körkort Theory is an independent study aid and is not affiliated with or endorsed
-by Trafikverket. This document is a draft template and does not constitute legal
-advice; have it reviewed by a qualified lawyer before publication.*
+by Trafikverket.*
