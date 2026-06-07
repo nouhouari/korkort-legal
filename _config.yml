@@ -1,0 +1,17 @@
+# GitHub Pages (Jekyll) config for the Körkort Theory legal site.
+# Pages are generated from legal/*.md by tool/build_legal_site.sh.
+title: Körkort Theory — Legal
+description: Terms & Privacy for the Körkort Theory app.
+
+# Served as a GitHub Pages project site at nouhouari.github.io/korkort-legal/.
+# baseurl makes the `relative_url` filter resolve links under the project path.
+url: "https://nouhouari.github.io"
+baseurl: "/korkort-legal"
+
+# No remote theme — the legal layout is fully self-contained in _layouts/.
+# Exclude repo tooling from the build.
+exclude:
+  - README.md
+
+# Keep drafts out of search engines until the documents are finalised.
+# (The legal layout also sets <meta name="robots" content="noindex">.)
